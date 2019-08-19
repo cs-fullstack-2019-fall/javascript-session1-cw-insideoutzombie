@@ -19,8 +19,8 @@ let myArray = ['Marvin ','Ferris' ,'Brynn','Damian','Whitney','Leila','Frances',
 var x = myArray.toString();
 // new userName = new FacebookUser("newArray");
 
-// let namesList = [];
-// namesList.push(myArray);
+let namesList = [];
+namesList.push(myArray);
 
 
 
