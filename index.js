@@ -22,7 +22,7 @@ var x = myArray.toString();
 let namesList = [];
 namesList.push(myArray);
 
-
+// you never define an object(s)?
 
 function main(displayName) {
   document.getElementById("classwork").innerHTML = [x]
